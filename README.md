@@ -22,9 +22,7 @@ https://user-images.githubusercontent.com/108170309/207760927-5d4e0b16-ff3c-4f43
 
 ### Frontend
 * [Vue](https://vuejs.org/) to compose the UI
-* [Vue Router](https://router.vuejs.org/) to manage the routes
 * [Google OAuth](https://console.cloud.google.com/?pli=1) to authenticate Google Account for login purpose
-* [Pinia](https://pinia.vuejs.org/) to share a state across components/pages
 * [Bootstrap 5.1](https://getbootstrap.com/docs/5.1/getting-started/introduction/) to help with the styling and accessibility
 * [Axios](https://axios-http.com/) to make HTTP requests to fetch or save data
 * [Firebase](https://firebase.google.com/) to host the deployed app
